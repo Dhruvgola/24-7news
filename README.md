@@ -1,12 +1,9 @@
-# Apna-News
+# 24/7 NEWS
 
+**_To run this project in your system you have to first install node modules in you laptop by giving the command npm i or npm install after installing node files
+use npm run dev to run this project_**
 
-***To run this project in your system you have to first install node modules in you laptop by giving the command npm i or npm install after installing node files 
-use npm run dev to run this project***
-
-
-News  website built using the Vite + React app framework, enriched with the seamless navigation provided by `react-router-dom`. The primary goal of this project is to deliver a user-friendly and dynamic news browsing experience, eliminating the need for whole website to reload when accessing different news articles or categories.
-
+News website built using the Vite + React app framework, enriched with the seamless navigation provided by `react-router-dom`. The primary goal of this project is to deliver a user-friendly and dynamic news browsing experience, eliminating the need for whole website to reload when accessing different news articles or categories.
 
 **Key Features:**
 
@@ -21,5 +18,3 @@ News  website built using the Vite + React app framework, enriched with the seam
 5. **Categories and Sorting:** News Express offers a diverse range of news categories, such as Technology, Politics, Sports, Entertainment, Science, and more. Users can easily filter news articles based on their preferences and interests. Additionally, sorting options based on relevance, date, or popularity empower users to customize their news feed according to their liking.
 
 6. **Responsive Design:** The website is designed to be fully responsive, adapting seamlessly to various devices and screen sizes, and mobile phones. This ensures a consistent and enjoyable browsing experience for users across different platforms.
-
-
